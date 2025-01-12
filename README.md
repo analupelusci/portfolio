@@ -1,6 +1,6 @@
 # 🧑‍💻 Sobre Mim
 
-Olá! Sou **Ana Pelusci**, um QA Tester apaixonado por garantir a qualidade de software! 🎯   
+Olá! Sou **Ana Pelusci**, uma QA Tester apaixonada por garantir a qualidade de software! 🎯   
 Acredito que **testar é mais do que encontrar bugs**, é garantir que o produto final seja **funcional, estável e entregue com excelência**.
 Tenho experiência prática em ferramentas e metodologias de QA para garantir a **qualidade de software** em diferentes tipos de projetos.
 
