@@ -28,7 +28,7 @@ Minha missão como QA é:
 ## 🚀 **Minha Jornada no Mundo QA**
 
  💡 **Tudo começou** quando decidi fazer uma transição de carreira há 3 anos. Desde então, mergulhei no mundo 
-    da qualidade de software, sempre motivado por uma curiosidade genuína em entender como os sistemas funcionam
+    da qualidade de software, sempre motivada por uma curiosidade genuína em entender como os sistemas funcionam
     e como garantir que eles funcionem da melhor maneira possível para os usuários.
 
  🛠️ **Hoje, meu foco está em testes manuais,** analisando fluxos, identificando melhorias e garantindo que os 
