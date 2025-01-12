@@ -41,18 +41,18 @@ Minha missão como QA é:
     
 ## **🎓 Formação:**
 
-  ** Curso TQA – Treinamento de Quality Assurance**:   
+  **Curso TQA – Treinamento de Quality Assurance**:   
     - Duração: 3 meses
     - Conteúdo: Quality Assurance, Gestão de Projetos, Ferramentas de Testes, Testes manuais, DevOps, automação de testes, estratégias de QA e metodologias ágeis.
 
-## ** 💻 Experiência na QA.Coders Academy:**
+## **💻 Experiência na QA.Coders Academy:**
 
-  ** Trainer no Programa de Formação de QA (3 meses)**
+  **Trainer no Programa de Formação de QA (3 meses)**
   - Duração: 3 meses
   - Participei do programa prático focado em aplicar conceitos de testes manuais, automação de testes e configuração de pipelines em um ambiente simulado de projetos reais, com sprints e práticas ágeis, usando o Azure para documentar os testes realizados.
 
  **🔧 Time de Automação de API (QA.Coders):** 
-- ** 8 meses de experiência no time de automação de API.**
+- **8 meses de experiência no time de automação de API.**
 -	Realizava testes manuais e automatizados usando a ferramenta postman.
 
 **Liderança de squad automação API por 4 meses**, sendo responsável por:
