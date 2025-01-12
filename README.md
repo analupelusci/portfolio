@@ -55,14 +55,15 @@ Minha missão como QA é:
 - **8 meses de experiência no time de automação de API.**
 -	Realizava testes manuais e automatizados usando a ferramenta postman.
 
-**Liderança de squad automação API por 4 meses**, sendo responsável por:
+**👨‍🏫 Liderança de squad automação API por 4 meses**, sendo responsável por:
  - Definição de estratégias de automação.
  - Revisão de código.
  - Organização das entregas e reuniões.
  - Reistruturei o time
  - Criando programa de treinamento para os integrantes do time.
  - Atuei como mentora, auxiliando outros profissionais em início de carreira a desenvolver habilidades em testes de software.
-
+   
+🎯 Essa experiência prática me ajudou a consolidar meu conhecimento em metodologias ágeis, automação e liderança de equipes, preparando-me para atuar em projetos reais do mercado.
 
 ## **Meus planos como QA são:**
 - 📌 Tirar certificado CTFL
